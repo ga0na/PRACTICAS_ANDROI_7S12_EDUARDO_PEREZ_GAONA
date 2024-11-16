@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P2PasoParametro</string>
+    <string name="titulox">P2-COMUNICACION ACTIVITY</string>
+    <string name="sig">SiguienteActivity</string>
+    <string name="bott">PasoNombre</string>
+    <string name="datt">Ingresa tu nombre</string>
+    <string name="saludo">¡¡¡HOLA MUNDO!!!</string>
+</resources>

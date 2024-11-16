@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">practica9PrimerServicio</string>
+    <string name="btnA1Iniciar">Iniciar</string>
+    <string name="btnA1Detener">Detener</string>
+</resources>

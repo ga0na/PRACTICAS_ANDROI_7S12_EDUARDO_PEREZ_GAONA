@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P3-7s12-bundleActivity</string>
+    <string name="lbl1a1">Nombre:</string>
+    <string name="lbl2a1">Correo:</string>
+    <string name="lbl3a1">Telefono:</string>
+    <string name="btnA1Send">Enviar</string>
+    <string name="titulo">INGRESA TUS DATOS</string>
+</resources>
